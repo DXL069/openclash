@@ -16,3 +16,35 @@ DOMAIN,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,makersuite.google.com
+
+
+
+payload:
+  # ✅ 核心服务（Gemini 模型本体 & API 调用）
+  - DOMAIN,ai.google.dev
+  - DOMAIN,generativelanguage.googleapis.com
+  - DOMAIN,alkalicore-pa.clients6.google.com
+  - DOMAIN,alkalimakersuite-pa.clients6.google.com
+  - DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
+
+  # ✅ 前端访问（主站页面）
+  - DOMAIN-SUFFIX,gemini.google.com
+  - DOMAIN-SUFFIX,makersuite.google.com
+  - DOMAIN-SUFFIX,bard.google.com
+
+  # ✅ 支持服务（资源加载、AI生成、API转发）
+  - DOMAIN-SUFFIX,generativeai.google
+  - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+  - DOMAIN-SUFFIX,apis.google.com
+
+  # ✅ 实验性 Gemini 子项目（常见于 Gemini UI 内加载）
+  - DOMAIN-SUFFIX,aistudio.google.com
+  - DOMAIN-SUFFIX,notebooklm.google
+  - DOMAIN-SUFFIX,notebooklm.google.com
+  - DOMAIN-SUFFIX,jules.google
+  - DOMAIN-SUFFIX,jules.google.com
+  - DOMAIN-SUFFIX,geller-pa.googleapis.com
+
+  # ✅ 深度集成研发支持（DeepMind AI 模块）
+  - DOMAIN-SUFFIX,deepmind.com
+  - DOMAIN-SUFFIX,deepmind.google
