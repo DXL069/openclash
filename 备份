@@ -1,0 +1,37 @@
+  # ✅ 核心模型 API 接口
+  - DOMAIN,ai.google.dev
+  - DOMAIN,generativelanguage.googleapis.com
+
+  # ✅ 前端页面与控制台
+  - DOMAIN,makersuite.google.com
+  - DOMAIN-SUFFIX,gemini.google.com
+  - DOMAIN-SUFFIX,bard.google.com
+
+  # ✅ Gemini 调用子服务
+  - DOMAIN,alkalicore-pa.clients6.google.com
+  - DOMAIN,alkalimakersuite-pa.clients6.google.com
+  - DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
+
+  # ✅ AI 支持接口（不含地图等服务）
+  - DOMAIN-SUFFIX,generativeai.google
+  - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+  - DOMAIN-SUFFIX,notifications-pa.googleapis.com
+  - DOMAIN-SUFFIX,oauthaccountmanager.googleapis.com
+  - DOMAIN-SUFFIX,apis.google.com  # 通用接口 API，非地图专属
+
+  # ✅ DeepMind（Gemini 基础研究团队）
+  - DOMAIN-SUFFIX,deepmind.com
+  - DOMAIN-SUFFIX,deepmind.google
+
+  # ✅ NotebookLM、Aistudio 等 Gemini 实验项目
+  - DOMAIN-SUFFIX,aistudio.google.com
+  - DOMAIN-SUFFIX,notebooklm.google
+  - DOMAIN-SUFFIX,notebooklm.google.com
+  - DOMAIN-SUFFIX,jules.google
+  - DOMAIN-SUFFIX,jules.google.com
+  - DOMAIN-SUFFIX,geller-pa.googleapis.com
+
+  # ✅ 安全关键词匹配（增强容错）
+  - DOMAIN-KEYWORD,colab
+  - DOMAIN-KEYWORD,developerprofiles
+  - DOMAIN-KEYWORD,generativelanguage
