@@ -1,1 +1,10 @@
-
+DOMAIN,amp-api.apps.apple.com
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN,apps.mzstatic.com
+DOMAIN,gateway.icloud.com
+DOMAIN,apple-relay.apple.com
+DOMAIN,cp4.cloudflare.com
+DOMAIN,apple-relay.fastly-edge.com
+DOMAIN,apple-relay.cloudflare.com
+DOMAIN,*.smoot.apple.com
+DOMAIN,guzzoni.apple.com
