@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,bbffsl.com
 DOMAIN-SUFFIX,212tt.com  
 DOMAIN-SUFFIX,micun.com
 DOMAIN-SUFFIX,sce-icm.com
-#DOMAIN-KEYWORD,ssrdog
-#DOMAIN-SUFFIX,ssrdog12.com
+DOMAIN-KEYWORD,ssrdog
+DOMAIN-SUFFIX,ssrdog12.com
+DOMAIN-SUFFIX,m4hs-9ekt-y2qb-fa7x-wl6r.sbs
 #DOMAIN-SUFFIX,api-gateway.umami.dev
