@@ -8,7 +8,6 @@ DOMAIN-SUFFIX,sce-icm.com
 DOMAIN-KEYWORD,ssrdog
 DOMAIN-SUFFIX,ssrdog12.com
 DOMAIN-SUFFIX,api-gateway.umami.dev
-DOMAIN-KEYWORD,91quanji
 # > 机场订阅直连
 DOMAIN-SUFFIX,qinyues4.cc,DIRECT
 DOMAIN-SUFFIX,api-huacloud.net,DIRECT
