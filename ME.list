@@ -9,9 +9,9 @@ DOMAIN-KEYWORD,ssrdog
 DOMAIN-SUFFIX,ssrdog12.com
 DOMAIN-SUFFIX,api-gateway.umami.dev
 # > 机场订阅直连
-DOMAIN-SUFFIX,qinyues4.cc,DIRECT
-DOMAIN-SUFFIX,api-huacloud.net,DIRECT
-DOMAIN-SUFFIX,xmancdn.net,DIRECT
-DOMAIN-SUFFIX,qtt-163cdn.com,DIRECT
-DOMAIN-SUFFIX,ytoo.xyz,DIRECT
-DOMAIN-SUFFIX,m4hs-9ekt-y2qb-fa7x-wl6r.sbs,DIRECT
+DOMAIN-SUFFIX,qinyues4.cc
+DOMAIN-SUFFIX,api-huacloud.net
+DOMAIN-SUFFIX,xmancdn.net
+DOMAIN-SUFFIX,qtt-163cdn.com
+DOMAIN-SUFFIX,ytoo.xyz
+DOMAIN-SUFFIX,m4hs-9ekt-y2qb-fa7x-wl6r.sbs
