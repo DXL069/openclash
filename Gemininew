@@ -1,7 +1,6 @@
 # ==============================
 # Gemini / Google AI 分流
 # ==============================
-
 # --- [前端交互入口]
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,bard.google.com
@@ -11,6 +10,8 @@ DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,jules.google
+DOMAIN-SUFFIX,jules.google.com
 
 # --- [AI 后端 API & 模型下发]
 DOMAIN,generativelanguage.googleapis.com
@@ -30,11 +31,20 @@ DOMAIN-SUFFIX,geller-pa.googleapis.com
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,notifications-pa.googleapis.com
 DOMAIN-SUFFIX,firebaseinstallations.googleapis.com
+DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
+DOMAIN-SUFFIX,assistantfrontend-pa.googleapis.com
+DOMAIN-SUFFIX,assistant-s3-pa.googleapis.com
+DOMAIN-SUFFIX,speechs3proto2-pa.googleapis.com
+DOMAIN-SUFFIX,searchnotifications-pa.googleapis.com
+DOMAIN-SUFFIX,lamssettings-pa.googleapis.com
+DOMAIN-SUFFIX,taskassist-pa.googleapis.com
+DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
+DOMAIN-SUFFIX,playatoms-pa.googleapis.com
 
-# --- [核心账号、认证与合规]
+# --- [核心账号认证与合规]
 DOMAIN-SUFFIX,oauthaccountmanager.googleapis.com
 DOMAIN-SUFFIX,apis.google.com
 DOMAIN,safebrowsing.googleapis.com
 
-# --- [静态资源 (建议按需放置)]
+# --- [静态资源]
 DOMAIN-SUFFIX,gstatic.com
