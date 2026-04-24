@@ -1,0 +1,40 @@
+# ==============================
+# Gemini / Google AI 分流
+# ==============================
+
+# --- [前端交互入口]
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,notebooklm.google.com
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+
+# --- [AI 后端 API & 模型下发]
+DOMAIN,generativelanguage.googleapis.com
+DOMAIN,ai.google.dev
+DOMAIN,alkalicore-pa.clients6.google.com
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
+DOMAIN,discoveryengine.clients6.google.com
+DOMAIN-KEYWORD,alkali
+
+# --- [移动端 App & 多模态支持 (含 Gemini Live)]
+DOMAIN,cloudconfig.googleapis.com
+DOMAIN,update.googleapis.com
+DOMAIN,speech.googleapis.com
+DOMAIN,lens.google.com
+DOMAIN-SUFFIX,geller-pa.googleapis.com
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,notifications-pa.googleapis.com
+DOMAIN-SUFFIX,firebaseinstallations.googleapis.com
+
+# --- [核心账号、认证与合规]
+DOMAIN-SUFFIX,oauthaccountmanager.googleapis.com
+DOMAIN-SUFFIX,apis.google.com
+DOMAIN,safebrowsing.googleapis.com
+
+# --- [静态资源 (建议按需放置)]
+DOMAIN-SUFFIX,gstatic.com
