@@ -4,7 +4,6 @@
 #DOMAIN-SUFFIX,212tt.com  
 DOMAIN-SUFFIX,micun.com
 DOMAIN-SUFFIX,sce-icm.com
-DOMAIN-KEYWORD,ssrdog
 DOMAIN-SUFFIX,api-gateway.umami.dev
 # > 机场订阅直连
 DOMAIN-SUFFIX,qinyues4.cc
@@ -13,8 +12,7 @@ DOMAIN-SUFFIX,flowercloud.com
 DOMAIN-SUFFIX,xmancdn.net
 DOMAIN-SUFFIX,qtt-163cdn.com
 DOMAIN-SUFFIX,ytoo.xyz
-DOMAIN-SUFFIX,m4hs-9ekt-y2qb-fa7x-wl6r.sbs
-
+DOMAIN-KEYWORD,ssrdog
 DOMAIN-KEYWORD,y-too
 DOMAIN-KEYWORD,flowercloud
 DOMAIN-KEYWORD,bygcloud
